@@ -7,7 +7,7 @@ Projeto do curso de JavaScript Completo ES6 - Origamid.
 
 :heavy_check_mark: Com foco em manipulação do DOM, foram aplicados recursos como: navegação por tabs, accordion list e animações ao scroll.
 
-  :link: Acesse o projeto por aqui: https://animais-fantasticos-brunacdp.vercel.app/.
+  :link: [Acesse o projeto por aqui](brunacdp.github.io/animais-fantasticos/).
   <br>
   <br>
 
